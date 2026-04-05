@@ -54,4 +54,4 @@ En este proyecto he aprendido a:
 
 # AUTORÍA
 
-Proyecto realizado por Cris Sáenz.
+✨ Proyecto realizado por Cris Sáenz. ✨
