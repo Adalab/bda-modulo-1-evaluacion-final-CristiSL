@@ -35,6 +35,7 @@ Para ejecutar el proyecto desde GitHub, sigue estos pasos:
 7. make_purchase()
 8. process_payment()
 9. add_customer(name, email)
+10. show_customers()
 
 # EJEMPLO DE USO
 
